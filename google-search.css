@@ -68,7 +68,8 @@ a:visited {
 	grid-template-columns: 150px auto;
 	grid-column-gap: 30px;
 	width: 100vh;
-
+	padding: 5px;
+	border: 1px solid #c4c4c4;
 }
 
  .r-button {
