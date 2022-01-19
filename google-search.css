@@ -93,10 +93,20 @@ a:visited {
 }
 
 .r-wrap {
-	border: 0.5px solid #c4c4c4;
 	padding-right: 5px;
 	padding-left: 180px;
+	border: 0.5px solid #c4c4c4;
 	width: 100%;
 	height: 100%;
 	box-sizing: border-box;
+}
+.r-warp small {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.results {
+	display: grid;
+	grid-template-rows: auto auto;
+	grid-row-gap: 40px;
 }
