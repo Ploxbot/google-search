@@ -72,11 +72,21 @@ a:visited {
 	border: 1px solid #c4c4c4;
 }
 
- .r-button {
+.r-button {
 	width: 80px;
 	height: 40px;
 	background-color: #4285f3;
 	color: white;
 	border: 1px solid #1a5fd0;
 	border-radius: 5px;
+}
+
+.r-input {
+	width: 400px;
+	height: 40px;
+	color: #5b5b5b;
+	border-radius: 20px;
+	border: 1px solid #c4c4c4;
+	margin-right: 20px;
+	text-align: center;
 }
