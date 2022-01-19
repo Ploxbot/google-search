@@ -1,3 +1,5 @@
+/*Search Page Styles*/
+
 .s-wrap {
 	width: 400px;
 	margin-top: 100px;
@@ -35,4 +37,28 @@ button {
 button:hover {
   background-color: #5998ff;
   color: white;
+}
+
+/*Result Page Styles*/
+
+a {
+	font-family: Helvetica sans-serif;
+	font-size: 24px;
+}
+
+p {
+	font-family: Helvetica sans-serif;
+	font-size: 14px;
+	color: #5b5b5b;
+}
+li > a {
+	 font-family: Helvetica sans-serif;
+	 font-size: 12px;
+	 color: #1a0dab;
+ }
+
+a:visited {
+	font-family: Helvetica sans-serif;
+	font-size: 12px;
+	color: #660099;
 }
