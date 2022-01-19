@@ -31,3 +31,8 @@ button {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+button:hover {
+  background-color: #5998ff;
+  color: white;
+}
